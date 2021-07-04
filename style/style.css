@@ -57,6 +57,9 @@ img{
     margin-right: 5%;
     padding: 20px;
 }
+.Experience_item>h3{
+    color: orange;
+}
 .border1{
     border-left: 7px solid ;
     border-image:  linear-gradient(lightSalmon,tomato);
